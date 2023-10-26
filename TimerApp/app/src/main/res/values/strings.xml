@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DreamJob</string>
+    <string name="welcome_message">Welcome to jetpack compose.</string>
+    <string name="love_message">We love </string>
+</resources>
